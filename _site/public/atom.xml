@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>misaki markdown</title>
+<link href="http://localhost:8080/atom.xml" rel="self" />
+<link href="http://localhost:8080/" />
+<updated></updated>
+<id>http://localhost:8080</id>
+<author><name>uochan</name></author>
+
+<entry>
+<title>Salmon Kebabs with a Cucumber Yogurt Sauce</title>
+<link>http://localhost:8080/salmon-skewers-with-cucumber/index.html</link>
+<updated>2013-07-08T00:00:00</updated>
+<id>http://localhost:8080/salmon-skewers-with-cucumber/index.html</id>
+<content type="html">&lt;p&gt;Taken from - &lt;a href=&quot;http://www.sproutedkitchen.com/home/2013/5/28/salmon-skewers-with-cucumber-yogurt-sauce.html&quot;&gt;Sprouted Kitchen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is one that I ran across and decided I needed to immediately try it, unmodified. The cucumber yogurt sauce reminds me of something you get with pita-based sandwiches. My only problem with this dish is the lemon didn't serve a purpose, other than to make the other items more kebab-y. Adding a second vegatable, tomatoes maybe, would have given the dish a little more flavor.&lt;/p&gt;
+&lt;h3&gt;Ingredients&lt;/h3&gt;
+&lt;h4&gt;Kebabs&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Salmon fillets, cubed (don't get them skinned)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Lemons, sliced&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2 zucchini&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Extra virgin olive oil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1 tablespoon maple syrup.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1/2 teaspoon sea salt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1/4 teaspoon paprika&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;Yogurt sauce&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;2 garlice cloves&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A large cucumber, english preferred&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3 tablespoons fresh dill&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2 tablespoons fresh mint leaves&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1 cup greek yogurt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Lemon zest&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Prepare all of the ingredients for the kebabs. Cube the salmon, slice the lemon and zucchini.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Prepare the kebabs. Alternative the salmon, zucchini and lemon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mix the oil, lemon juice, maple, salt, and paprika. Brush on the kebabs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In a food processor combine the garlic, salt, pepper, and cucumber, and lemon zest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Add the dill, mint, and yogurt and give it a few more turns.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cook the kebabs just until the salmon is cooked. Do not overcook or the salmon will be rubbery.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;When serving, but a healthy heap of yogurt sauce on the kebabs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot; /images/salmon-skewers-with-cucumber/preparing-kebabs.jpg&quot;&gt;
+&lt;img src=&quot; /images/salmon-skewers-with-cucumber/preparing-kebabs.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/salmon-skewers-with-cucumber/adding-spices.jpg&quot;&gt;
+&lt;img src=&quot; /images/salmon-skewers-with-cucumber/adding-spices.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/salmon-skewers-with-cucumber/after-cooking.jpg&quot;&gt;
+&lt;img src=&quot; /images/salmon-skewers-with-cucumber/after-cooking.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/salmon-skewers-with-cucumber/served-items.jpg&quot;&gt;
+&lt;img src=&quot; /images/salmon-skewers-with-cucumber/served-items.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/salmon-skewers-with-cucumber/served.jpg&quot;&gt;
+&lt;img src=&quot; /images/salmon-skewers-with-cucumber/served.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Herb-Crusted Salmon</title>
+<link>http://localhost:8080/herb-crusted-salmon/index.html</link>
+<updated>2013-04-11T00:00:00</updated>
+<id>http://localhost:8080/herb-crusted-salmon/index.html</id>
+<content type="html">&lt;p&gt;Inspired by - &lt;a href=&quot;http://www.myrecipes.com/recipe/herb-crusted-salmon-with-mixed-greens-salad-10000001723390/&quot;&gt;Cooking Light&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Came up with the idea to make this in kind of the last second and ran to the local Fresh Market to buy the ingredients. Bought the salmon with the skin still on, and not wanting to learn how to properly remove the skin, we elected to leave it on and put the rub on just the one side. For the same reason we decided to bake, rather than cook then in the skillet. The result was satisfying, you can't go wrong with baked salmon no matter how you dress it and this was no exception. I do hope to get back around to trying it the official way some day.&lt;/p&gt;
+&lt;h3&gt;Ingredients&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Salmon fillets (with the skin!)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1/2 cup dry breadcrumbs (we used Panko)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2 teaspoons chopped fresh oregano&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2 teaspoons chopped fresh rosemary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2 teaspoons chopped fresh flat-leaf parsley&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2 garlic cloves, minced&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1/4 teaspoon salt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1 1/2 teaspoons lemon rind, grated&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Lemon juice&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;On a plate (or small mixing bowl) mix together the breadcrumbs, oregano, rosemary, parsley, minced garlic, salt, and lemon rind.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pat spice mix into both sides of your fillets (or just the one side if you bought them with the skin, like me).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Wrap in aluminum foil (with a little olive oil) and bake for about 30 minutes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;When they are ready to serve, squeeze your lemon over the fish.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot; /images/herb-crusted-salmon/salmon-being-spiced.jpg&quot;&gt;
+&lt;img src=&quot; /images/herb-crusted-salmon/salmon-being-spiced.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/herb-crusted-salmon/lemon-being-added.jpg&quot;&gt;
+&lt;img src=&quot; /images/herb-crusted-salmon/lemon-being-added.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/herb-crusted-salmon/ready-to-eat.jpg&quot;&gt;
+&lt;img src=&quot; /images/herb-crusted-salmon/ready-to-eat.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Cilantro Lime Tilapia Tacos</title>
+<link>http://localhost:8080/cilantro-lime-tilapia-tacos/index.html</link>
+<updated>2013-03-16T00:00:00</updated>
+<id>http://localhost:8080/cilantro-lime-tilapia-tacos/index.html</id>
+<content type="html">&lt;p&gt;From - &lt;a href=&quot;http://www.skinnytaste.com/2012/02/cilantro-lime-tilapia-tacos.html&quot;&gt;skinnytaste&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have another fish taco recipe that is part of my regular rotation. This one is quite a bit different from what I think of as traditional fish tacos. But seeing that fat piece of avacado sitting in the middle made me want to try it. I'm thrilled that I did! Even though this takes a bit more prep than my other recipe, they are simply delicious.&lt;/p&gt;
+&lt;h3&gt;Ingredients&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Tilapia fillets (I used 4)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1/4 cup cilantro, chopped or shredded&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1 onion, chopped&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2 cups tomatoes, diced&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3 tablespoons lime juice&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4 garlic cloves, finely minced&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Jalepeños (I used about 1/4 cup)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;1 avacado, sliced into wedges&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Olive oil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;5-inch white corn tortillas (or whatever you like)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Prep all of your ingredients, this takes the longest of all the steps.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Heat a large pan with olive oil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Heat another pan to warm your tortillas, about 2 minutes per side.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cook the onion until translucent.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mix in the garlic, just for a minute or so.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cook the tilapia fillets on top, flipping occassionally.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;With a fork, flake the tilipia into pieces.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mix in the tomatoes, cilantro, lime juice, and jalepeños. Allow to cook about 5 more minutes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Serve about a 1/4 cup per tortilla, with an avacado slice on top.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot; /images/cilantro-lime-tilapia-tacos/the-ingredients.jpg&quot;&gt;
+&lt;img src=&quot; /images/cilantro-lime-tilapia-tacos/the-ingredients.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/cilantro-lime-tilapia-tacos/cilantro.jpg&quot;&gt;
+&lt;img src=&quot; /images/cilantro-lime-tilapia-tacos/cilantro.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/cilantro-lime-tilapia-tacos/cooking.jpg&quot;&gt;
+&lt;img src=&quot; /images/cilantro-lime-tilapia-tacos/cooking.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/cilantro-lime-tilapia-tacos/before-eating.jpg&quot;&gt;
+&lt;img src=&quot; /images/cilantro-lime-tilapia-tacos/before-eating.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/cilantro-lime-tilapia-tacos/ready-to-eat.jpg&quot;&gt;
+&lt;img src=&quot; /images/cilantro-lime-tilapia-tacos/ready-to-eat.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Steamed Flounder with Grape Tomato Sauce</title>
+<link>http://localhost:8080/steamed-flounder-with-grape-tomato-sauce/index.html</link>
+<updated>2013-03-15T00:00:00</updated>
+<id>http://localhost:8080/steamed-flounder-with-grape-tomato-sauce/index.html</id>
+<content type="html">&lt;p&gt;Inspired by - &lt;a href=&quot;http://www.skinnytaste.com/2011/07/broiled-fish-with-summer-grape-tomato.html&quot;&gt;skinnytaste&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I've found that grape tomatoes cooked with a little oil (olive or otherwise) makes a great sauce for just about anything. I first had it in an asparagus recipe I love and when I came across this one I thought it would be perfect. And it was! Aside from the choice to steam, I also left off the basil (as I didn't have any). It turned out delicious nevertheless.&lt;/p&gt;
+&lt;h3&gt;Ingredients&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Flounder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Grape tomatoes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Garlic (2 cloves per piece of fish)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Olive oil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Salt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pepper&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Oregano (optional)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Pour your water into your steamer and turn it on to boil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Smash your garlic, I used a mortar and pestle.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cut your grape tomatoes into halves.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;When your pan is hot, pour in about a tablespoon of olive oil and cook the garlic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cook the grape tomatoes, smash them down just a little, to release the juices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Meanwhile steam your fish, shouldn't take long.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;After the fish is cooked and the sauce is sufficiently saucy, plate the flounder and pour your sauce over top.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot; /images/flounder-in-grape-tomato-sauce/mortar-pestle.jpg&quot;&gt;
+&lt;img src=&quot; /images/flounder-in-grape-tomato-sauce/mortar-pestle.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/flounder-in-grape-tomato-sauce/cooking.jpg&quot;&gt;
+&lt;img src=&quot; /images/flounder-in-grape-tomato-sauce/cooking.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/flounder-in-grape-tomato-sauce/served1.jpg&quot;&gt;
+&lt;img src=&quot; /images/flounder-in-grape-tomato-sauce/served1.jpg&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot; /images/flounder-in-grape-tomato-sauce/served2.jpg&quot;&gt;
+&lt;img src=&quot; /images/flounder-in-grape-tomato-sauce/served2.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Honey Mustard Catfish</title>
+<link>http://localhost:8080/honey-mustard-catfish/index.html</link>
+<updated>2010-07-07T00:00:00</updated>
+<id>http://localhost:8080/honey-mustard-catfish/index.html</id>
+<content type="html">&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Source - &lt;a href=&quot;http://www.fishandveggiesblog.com/2010/06/honey-mustard-catfish.html&quot;&gt;Fish and Veggies&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Found this recipe on one of my favorite food blogs and had to try it.  Cooking this one was simple; simpler than something this delicious should be.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ingredients&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;1 part honey&lt;/li&gt;&lt;li&gt;2 parts dijon&lt;/li&gt;&lt;li&gt;1/2 parts Worcestershire sauce&lt;/li&gt;&lt;li&gt;Pinch of salt&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;Steps&lt;/b&gt;:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;1) Prepare marinate.  Mix honey, dijon, and Worcestershire sauce in a plastic bag.&lt;/div&gt;&lt;br /&gt;&lt;a onblur=&quot;try {parent.deselectBloggerImageGracefully();} catch(e) {}&quot; href=&quot;http://1.bp.blogspot.com/_YIZ7u8qgfL8/TDPXVGeX3EI/AAAAAAAABI4/UqlBrOvc8JM/s1600/IMG_20100705_174730.jpg&quot;&gt;&lt;img style=&quot;float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 200px; height: 150px;&quot; src=&quot;http://1.bp.blogspot.com/_YIZ7u8qgfL8/TDPXVGeX3EI/AAAAAAAABI4/UqlBrOvc8JM/s200/IMG_20100705_174730.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_5490969128209996866&quot; /&gt;&lt;/a&gt;&lt;div&gt; 2) Place catfish in the plastic bag with the marinate and refrigerate for at least 1/2 hour.&lt;/div&gt;&lt;br /&gt;&lt;div&gt; 3) Take the filet out of the bag and cook on a grill for 3-4 minutes per side, adding pinches of salt during the cooking process.  Check out my new stovetop grill (you're jealous)!&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;4) Enjoy!&lt;/div&gt;&lt;br /&gt;&lt;div&gt;&lt;br /&gt;&lt;a onblur=&quot;try {parent.deselectBloggerImageGracefully();} catch(e) {}&quot; href=&quot;http://2.bp.blogspot.com/_YIZ7u8qgfL8/TDPYReszU0I/AAAAAAAABJY/NccvvsN6roY/s1600/IMG_20100705_191044.jpg&quot;&gt;&lt;img style=&quot;float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 200px; height: 150px;&quot; src=&quot;http://2.bp.blogspot.com/_YIZ7u8qgfL8/TDPYReszU0I/AAAAAAAABJY/NccvvsN6roY/s200/IMG_20100705_191044.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_5490970165505119042&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a onblur=&quot;try {parent.deselectBloggerImageGracefully();} catch(e) {}&quot; href=&quot;http://1.bp.blogspot.com/_YIZ7u8qgfL8/TDPYsH0LooI/AAAAAAAABJg/Ebpqix3ssCs/s1600/IMG_20100705_191943.jpg&quot;&gt;&lt;img style=&quot;float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 200px; height: 150px;&quot; src=&quot;http://1.bp.blogspot.com/_YIZ7u8qgfL8/TDPYsH0LooI/AAAAAAAABJg/Ebpqix3ssCs/s200/IMG_20100705_191943.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_5490970623218524802&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+</entry>
+
+</feed>
