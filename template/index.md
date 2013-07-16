@@ -29,7 +29,7 @@
     <ul class="posts">
       @(for posts)
       <li>
-        <a href="$(url)">$(title)</a>
+        <a href="$(until-last-slash url)/">$(title)</a>
         <span class="date">$(date-format date "MMMM d, yyyy")</span>
       </li>
       @(end)

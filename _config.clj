@@ -31,6 +31,8 @@
  ;;   defailt value; "<pre><code@(if lang) class="brush: $(lang);"@(end)>$(code)</code></pre>"
  :code-html-format "<pre><code@(if lang) class=\"brush: $(lang);\"@(end)>$(code)</code></pre>"
 
+ :cuma {:extension "extension.clj"}
+ 
  :compiler "markdown"
  }
 
