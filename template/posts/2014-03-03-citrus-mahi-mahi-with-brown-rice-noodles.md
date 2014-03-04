@@ -4,9 +4,9 @@
 
 Inspired by: [Averie Cooks](http://www.averiecooks.com/2012/02/caribbean-citrus-mahi-mahi-with-brown-rice-noodles.html)
 
-If your like me you probably have 4 or 5 types of fish in the freezer at all times but most often go to tilapia or salmon because, well, you know how to make it even when you're not in the mood for an elaborate recipe. This recipe will add Mahi Mahi into that mix. If a simple recipe that you can always remember, with ingredients you probably already have, is your thing, this is the one for you.
+If you're like me you probably have 4 or 5 types of fish in the freezer at all times but most often go to tilapia or salmon because, well, you know how to make it even when you're not in the mood for an elaborate recipe. This recipe will add mahi mahi into that mix. If a simple recipe that you can always remember, with ingredients you probably already have, is your thing, this is the one for you.
 
-Searing is not something I've done a lot of with Mahi Mahi, but here it works perfectly. With just that little bit of tang from the orange and the complementary noodles, I can see this becoming part of my regular rotation.
+Searing is not something I've done a lot of with mahi mahi, but here it works perfectly. With just that little bit of tang from the orange and the complementary noodles, I can see this becoming part of my regular rotation.
 
 ### Ingredients
 
