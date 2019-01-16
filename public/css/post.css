@@ -1,0 +1,19 @@
+article {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 62.5em;
+}
+
+article > * {
+  position: relative;
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+}
+
+article img {
+  display: inline;
+  max-height: 200px;
+  width: auto;
+  margin: 20px auto;
+  box-shadow: 0 0 20px #bbb;
+}
